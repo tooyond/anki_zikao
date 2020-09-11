@@ -1,2 +1,1 @@
-# anki_zikao_sixiu
-anki 的思修记忆库数据文件备份
+# 我的 Anki 的自考记忆库数据文件备份
