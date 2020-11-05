@@ -43243,3 +43243,116 @@
  'done': True,
  'notes': []}
 [1603264766] sync.py:sync(): findChanges
+[1604573570] collection.py:__init__(): C:\Users\tooyond\AppData\Roaming\Anki2\自考\collection.anki2, 2.1.15
+[1604573570] sched.py:_updateCutoff(): 323, 1604606400
+[1604573570] sched.py:unburyCards(): []
+[1604573572] sync.py:sync(): rmeta, {'cont': True,
+ 'empty': False,
+ 'hostNum': 2,
+ 'mod': 1603264763952,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1591884349244,
+ 'ts': 1604573570,
+ 'uname': 'tooyond@gmail.com',
+ 'usn': 445}
+[1604573572] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1604573570861,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1591884349244,
+ 'ts': 1604573572,
+ 'usn': 445}
+[1604573573] sync.py:sync(): server chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1604573573] sync.py:newerRows(): cards, []
+[1604573573] sync.py:newerRows(): notes, []
+[1604573573] sync.py:sync(): client chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1604573574] sync.py:sync(): findChanges
+[1604573575] collection.py:__init__(): C:\Users\tooyond\AppData\Roaming\Anki2\自考\collection.anki2, 2.1.15
+[1604573575] sched.py:_updateCutoff(): 323, 1604606400
+[1604574065] collection.py:__init__(): C:\Users\tooyond\AppData\Roaming\Anki2\自考\collection.anki2, 2.1.15
+[1604574065] sched.py:_updateCutoff(): 323, 1604606400
+[1604574081] sync.py:sync(): rmeta, {'cont': True,
+ 'empty': False,
+ 'hostNum': 2,
+ 'mod': 1604573573247,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1591884349244,
+ 'ts': 1604574080,
+ 'uname': 'tooyond@gmail.com',
+ 'usn': 446}
+[1604574081] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1604574064856,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1604573986354,
+ 'ts': 1604574081,
+ 'usn': 446}
+[1604574081] sync.py:sync(): schema diff
+[1604574109] sync.py:sync(): findChanges
+[1604574110] collection.py:__init__(): C:\Users\tooyond\AppData\Roaming\Anki2\自考\collection.anki2, 2.1.15
+[1604574110] sched.py:_updateCutoff(): 323, 1604606400
+[1604574112] sync.py:sync(): rmeta, {'cont': True,
+ 'empty': False,
+ 'hostNum': 2,
+ 'mod': 1604574098923,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1591884349244,
+ 'ts': 1604574110,
+ 'uname': 'tooyond@gmail.com',
+ 'usn': 447}
+[1604574112] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1604574098923,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1591884349244,
+ 'ts': 1604574112,
+ 'usn': 447}
+[1604574112] sync.py:sync(): no changes
+[1604574112] sync.py:sync(): findChanges
+[1604574112] collection.py:__init__(): C:\Users\tooyond\AppData\Roaming\Anki2\自考\collection.anki2, 2.1.15
+[1604574112] sched.py:_updateCutoff(): 323, 1604606400
+[1604574123] collection.py:__init__(): C:\Users\tooyond\AppData\Roaming\Anki2\自考\collection.anki2, 2.1.15
+[1604574123] sched.py:_updateCutoff(): 323, 1604606400
+[1604574125] sync.py:sync(): rmeta, {'cont': True,
+ 'empty': False,
+ 'hostNum': 2,
+ 'mod': 1604574098923,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1591884349244,
+ 'ts': 1604574123,
+ 'uname': 'tooyond@gmail.com',
+ 'usn': 447}
+[1604574125] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1604574098923,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1591884349244,
+ 'ts': 1604574125,
+ 'usn': 447}
+[1604574125] sync.py:sync(): no changes
+[1604574125] sync.py:sync(): findChanges
+[1604574312] collection.py:__init__(): C:\Users\tooyond\AppData\Roaming\Anki2\自考\collection.anki2, 2.1.15
+[1604574312] sched.py:_updateCutoff(): 323, 1604606400
+[1604574314] sync.py:sync(): rmeta, {'cont': True,
+ 'empty': False,
+ 'hostNum': 2,
+ 'mod': 1604574098923,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1591884349244,
+ 'ts': 1604574312,
+ 'uname': 'tooyond@gmail.com',
+ 'usn': 447}
+[1604574314] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1604574098923,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1591884349244,
+ 'ts': 1604574314,
+ 'usn': 447}
+[1604574314] sync.py:sync(): no changes
+[1604574314] sync.py:sync(): findChanges
